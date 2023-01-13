@@ -53,7 +53,9 @@ Additionally, the competition organizers also provided a detailed data descripti
         and specifying the number of epochs, validation steps and steps per epoch. The script also pass the DisplayCallback and Tensorboard callback for monitoring the training progress.
     15. The script then uses the show_predictions function to display predictions made by the trained model on the test dataset.
     16.The script saves the trained model to the file "model.h5" in the current working directory.
-    
+## Architecture
+![model](https://user-images.githubusercontent.com/82282919/212235797-2a3be161-4f38-4ead-a8e2-d142a9db2edd.png)
+
 ## Prediction
 ![output1](https://user-images.githubusercontent.com/82282919/212235282-bf1858ad-d034-4058-82be-38b2abfe9b88.png)
 ![output2](https://user-images.githubusercontent.com/82282919/212235296-e45867a2-60ee-44f8-8bdd-df93fd1a4e59.png)
